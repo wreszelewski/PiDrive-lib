@@ -1,0 +1,9 @@
+{
+  "name": "pidrive-lib",
+  "version": "0.0.1",
+  "description": "Overlay for wiringPI that allows to control movement of RaspberryPi controlled car with ease",
+  "dependencies": {
+    "wiring-pi": "^2.1.1"
+  }
+}
+
